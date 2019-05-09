@@ -290,6 +290,8 @@ Soldering | はんだ付け | はんだづけ |
 Stencil | メタルマスク | | For solder paste application
 Surface-mount technology (SMT) | 表面実装 | ひょうめんじっそう |
 Switch | スイッチ | |
+Terminal | 端子 | たんし | E.g. spade terminal
+Terminal block | 端子台 | たんしだい |
 Termination | 終端　| しゅうたん | As in "50Ω termination resistor"
 Through-hole technology (THT) | スルーホール実装 | スルーホールじっそう |
 Transistor | トランジスタ | |
